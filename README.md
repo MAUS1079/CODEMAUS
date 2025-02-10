@@ -1,2 +1,2 @@
 # CODEMAUS
-My personal repostiry
+My personal repository
